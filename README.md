@@ -15,9 +15,6 @@ Crea un minijuego similar a "Alimenta al patito" en el que añadas:
 
 ## Añade aquí el código de bloques
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
 ![A rendered view of the blocks](https://raw.githubusercontent.com/ULL-MFP-AET/makecode-template/master/.makecode/blocks.png)
 
 ## Supported targets
