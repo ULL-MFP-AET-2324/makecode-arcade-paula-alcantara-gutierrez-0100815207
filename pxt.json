@@ -1,5 +1,5 @@
 {
-    "name": "Chase the Pizza",
+    "name": "Alimenta al patito",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.3.49",
+        "target": "1.12.46",
         "targetId": "arcade"
     },
     "supportedTargets": [

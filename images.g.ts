@@ -118,5 +118,12 @@ ab33ddd325543333dd33aa444b44e...
         return null;
     })
 
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
 }
 // Auto-generated code. Do not edit.
