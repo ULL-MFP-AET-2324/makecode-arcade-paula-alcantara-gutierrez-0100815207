@@ -5,7 +5,7 @@
 
 ## Asignación
 
-**Enlace a la asignación en Classroom:** (https://classroom.github.com/a/7rxgjWNJ)
+**Enlace para aceptar la tarea en Classroom:** (https://classroom.github.com/a/7rxgjWNJ)
 
 Crea un minijuego similar a "Alimenta al patito" en el que añadas:
 
