@@ -16,10 +16,8 @@ Crea un minijuego similar a "Alimenta al patito" en el que añadas:
 ## Añade aquí el código de bloques
 
 ![A rendered view of the blocks](https://github.com/ULL-MFP-AET-2324/makecode-arcade-paula-alcantara-gutierrez-0100815207/blob/master/.makecode/codigo1.png)
+![A rendered view of the blocks](https://github.com/ULL-MFP-AET-2324/makecode-arcade-paula-alcantara-gutierrez-0100815207/blob/master/.makecode/codigo2.png)
 
-## Supported targets
 
-* for PXT/arcade
-* for PXT/arcade
-(The metadata above is needed for package search.)
+
 
