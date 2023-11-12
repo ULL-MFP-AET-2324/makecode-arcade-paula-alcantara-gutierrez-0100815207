@@ -13,24 +13,7 @@ Crea un minijuego similar a "Alimenta al patito" en el que añadas:
 * Una funcionalidad al alcanzar X puntos en el juego
 * Una funcionalidad al terminarse el tiempo
 
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
-
-## Edit this extension
-
-To edit this repository in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **Import** then click on **Import URL**
-* paste the repository URL and click import
-
-## Blocks preview
+## Añade aquí el código de bloques
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
