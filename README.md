@@ -1,5 +1,5 @@
 [![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-46eb539bcdc54ff4682c9f84a178d570a59fd821693cb33b02a3e5220eed4e48.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12777645&assignment_repo_type=AssignmentRepo)
-# Alimenta al patito ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg)
+# Tarea MakeCode Arcade - Alimenta al Patito ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg) https://makecode.com/_LC53P0gqhaLz
 
 ## Asignación
 
